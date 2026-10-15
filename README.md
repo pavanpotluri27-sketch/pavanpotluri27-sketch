@@ -8,10 +8,10 @@ RDR2 story-mode mods made for cinematic shots, plus videos on YouTube presented 
 
 ## My mods
 
-| Mod | What it does | Download |
-|---|---|---|
-| **Moon Glow** | Huge sharp moon, round sun, strong Milky Way, nine moon colours on a key, sky lock and time-lapse. Game settings only, no ReShade. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/11046) |
-| **Ghost Mode** | Walk as a glowing, see-through ghost. Townsfolk flee, ghost punch, spirit blast, ghost horse. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/10874) |
+| Mod | What it does | Download | Video |
+|---|---|---|---|
+| **Moon Glow** | Huge sharp moon, round sun, strong Milky Way, nine moon colours on a key, sky lock and time-lapse. Game settings only, no ReShade. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/11046) | [Watch](https://www.youtube.com/watch?v=JMgZC-SoS4s) |
+| **Ghost Mode** | Walk as a glowing, see-through ghost. Townsfolk flee, ghost punch, spirit blast, ghost horse. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/10874) | (coming) |
 
 More of my RDR2 mods: [all files on my Nexus profile](https://www.nexusmods.com/profile/RUDHRAAA/mods)
 
