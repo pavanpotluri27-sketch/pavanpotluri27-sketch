@@ -2,7 +2,7 @@
 
 RDR2 story-mode mods made for cinematic shots, plus videos on YouTube presented by my virtual co-host **Hero**.
 
-[Nexus Mods](https://www.nexusmods.com/profile/RUDHRAAA) · YouTube: Bounty Bandit · [Feedback board](../../discussions)
+[Nexus Mods](https://www.nexusmods.com/profile/RUDHRAAA) · [YouTube: Bounty Bandit](https://www.youtube.com/@Bounty_Bandit_Gaming) · [Feedback board](../../discussions)
 
 ---
 
@@ -21,7 +21,7 @@ All mods are for **story mode only**, never Red Dead Online.
 
 ## Meet Hero
 
-Hero is my virtual co-host. He presents the showcase and install videos on the Bounty Bandit channel, so you can see each mod working before you download it.
+Hero is my virtual co-host. He presents the showcase and install videos on the [Bounty Bandit channel](https://www.youtube.com/@Bounty_Bandit_Gaming), so you can see each mod working before you download it.
 
 ---
 
