@@ -41,6 +41,7 @@ A free GitHub account is enough to post. You can also comment on the Nexus page 
 
 If a mod gave you a great shot, an **endorsement on Nexus** and a **subscribe on YouTube** help the most.
 
+**[☕ Buy me a coffee on Ko-fi](https://ko-fi.com/gamelover77511)** - every coffee goes into new free mods.
 
 **Custom mods on request:** need a power, a sky look or a cinematic camera tool for your channel? Post in [Ideas](../../discussions) and I'll quote you.
 
