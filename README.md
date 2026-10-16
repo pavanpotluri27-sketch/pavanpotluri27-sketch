@@ -10,7 +10,7 @@ RDR2 story-mode mods made for cinematic shots, plus videos on YouTube presented 
 
 | Mod | What it does | Download | Video |
 |---|---|---|---|
-| **Moon Glow** | Huge sharp moon, round sun, strong Milky Way, nine moon colours on a key, sky lock and time-lapse. Game settings only, no ReShade. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/11046) | [Watch](https://www.youtube.com/watch?v=JMgZC-SoS4s) |
+| **Moon Glow** | Huge sharp moon, round sun, strong Milky Way, nine moon colours on a key, sky lock and time-lapse. Game settings only, no ReShade. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/11046) · [GitHub](https://github.com/pavanpotluri27-sketch/rdr2-moon-glow) | [Watch](https://www.youtube.com/watch?v=JMgZC-SoS4s) |
 | **Ghost Mode** | Walk as a glowing, see-through ghost. Townsfolk flee, ghost punch, spirit blast, ghost horse. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/10874) · [GitHub (source + zip)](https://github.com/pavanpotluri27-sketch/rdr2-ghost-mode) | (coming) |
 
 More of my RDR2 mods: [all files on my Nexus profile](https://www.nexusmods.com/profile/RUDHRAAA/mods)
@@ -41,4 +41,8 @@ A free GitHub account is enough to post. You can also comment on the Nexus page 
 
 If a mod gave you a great shot, an **endorsement on Nexus** and a **subscribe on YouTube** help the most.
 
+
+**Custom mods on request:** need a power, a sky look or a cinematic camera tool for your channel? Post in [Ideas](../../discussions) and I'll quote you.
+
 <sub>Copyright (c) 2026 RUDHRAAA. Please do not re-upload my mods to other sites. Videos and screenshots made with them are welcome, a link back is appreciated.</sub>
+
