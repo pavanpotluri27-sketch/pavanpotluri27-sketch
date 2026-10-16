@@ -12,6 +12,7 @@ RDR2 story-mode mods made for cinematic shots, plus videos on YouTube presented 
 |---|---|---|---|
 | **Moon Glow** | Huge sharp moon, round sun, strong Milky Way, nine moon colours on a key, sky lock and time-lapse. Game settings only, no ReShade. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/11046) · [GitHub](https://github.com/pavanpotluri27-sketch/rdr2-moon-glow) | [Watch](https://www.youtube.com/watch?v=JMgZC-SoS4s) |
 | **Ghost Mode** | Walk as a glowing, see-through ghost. Townsfolk flee, ghost punch, spirit blast, ghost horse. | [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/10874) · [GitHub (source + zip)](https://github.com/pavanpotluri27-sketch/rdr2-ghost-mode) | (coming) |
+| **No Black Bars Fix** | Full-screen cutscenes without black bars, and no stuck missions like the old NoBlackBars mod. | [GitHub (download + source)](https://github.com/pavanpotluri27-sketch/rdr2-no-black-bars-fix/releases) | (coming) |
 
 More of my RDR2 mods: [all files on my Nexus profile](https://www.nexusmods.com/profile/RUDHRAAA/mods)
 
